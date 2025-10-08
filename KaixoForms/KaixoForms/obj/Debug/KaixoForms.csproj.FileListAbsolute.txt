@@ -1,0 +1,13 @@
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\KaixoForms\KaixoForms\bin\Debug\KaixoForms.exe.config
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\KaixoForms\KaixoForms\bin\Debug\KaixoForms.exe
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\KaixoForms\KaixoForms\bin\Debug\KaixoForms.pdb
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\KaixoForms\KaixoForms\bin\Debug\KaixoDll.dll
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\KaixoForms\KaixoForms\bin\Debug\KaixoDll.pdb
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.AssemblyReference.cache
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\KaixoForms\KaixoForms\obj\Debug\KaixoForms.Form1.resources
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\KaixoForms\KaixoForms\obj\Debug\KaixoForms.Properties.Resources.resources
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.GenerateResource.cache
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.CoreCompileInputs.cache
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.Up2Date
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\KaixoForms\KaixoForms\obj\Debug\KaixoForms.exe
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\KaixoForms\KaixoForms\obj\Debug\KaixoForms.pdb

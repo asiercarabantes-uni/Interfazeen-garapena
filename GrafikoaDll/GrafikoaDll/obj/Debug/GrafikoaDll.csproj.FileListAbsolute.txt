@@ -1,0 +1,8 @@
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\GrafikoaDll\GrafikoaDll\bin\Debug\GrafikoaDll.dll
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\GrafikoaDll\GrafikoaDll\bin\Debug\GrafikoaDll.pdb
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.AssemblyReference.cache
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.Grafikoa.resources
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.GenerateResource.cache
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.CoreCompileInputs.cache
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.dll
+C:\Users\carabantes.asier\Desktop\PAAG2\Interfazeen garapena\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.pdb

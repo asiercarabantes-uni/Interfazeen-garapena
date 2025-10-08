@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carabantes.asier\\Desktop\\PAAG2\\Interfazeen garapena\\Ariketa 2 - Formula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEB1AC-2921-40FA-A7A2-247CE33FFA3D}|Ariketa2\\Ariketa2.csproj|c:\\users\\carabantes.asier\\desktop\\paag2\\interfazeen garapena\\ariketa 2 - formula\\ariketa2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEB1AC-2921-40FA-A7A2-247CE33FFA3D}|Ariketa2\\Ariketa2.csproj|solutionrelative:ariketa2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEB1AC-2921-40FA-A7A2-247CE33FFA3D}|Ariketa2\\Ariketa2.csproj|c:\\users\\carabantes.asier\\desktop\\paag2\\interfazeen garapena\\ariketa 2 - formula\\ariketa2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEB1AC-2921-40FA-A7A2-247CE33FFA3D}|Ariketa2\\Ariketa2.csproj|solutionrelative:ariketa2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEB1AC-2921-40FA-A7A2-247CE33FFA3D}|Ariketa2\\Ariketa2.csproj|C:\\Users\\carabantes.asier\\Desktop\\PAAG2\\Interfazeen garapena\\Ariketa 2 - Formula\\ariketa2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27EEB1AC-2921-40FA-A7A2-247CE33FFA3D}|Ariketa2\\Ariketa2.csproj|solutionrelative:ariketa2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEB1AC-2921-40FA-A7A2-247CE33FFA3D}|Ariketa2\\Ariketa2.csproj|c:\\users\\carabantes.asier\\desktop\\paag2\\interfazeen garapena\\ariketa 2 - formula\\ariketa2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEB1AC-2921-40FA-A7A2-247CE33FFA3D}|Ariketa2\\Ariketa2.csproj|solutionrelative:ariketa2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\carabantes.asier\\Desktop\\PAAG2\\Interfazeen garapena\\Ariketa 2 - Formula\\Ariketa2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ariketa2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\carabantes.asier\\Desktop\\PAAG2\\Interfazeen garapena\\Ariketa 2 - Formula\\Ariketa2\\Form1.Designer.cs",
+              "RelativeToolTip": "Ariketa2\\Form1.Designer.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAtwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:31:54.335Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carabantes.asier\\Desktop\\PAAG2\\Interfazeen garapena\\Ariketa 2 - Formula\\Ariketa2\\Program.cs",
+              "RelativeDocumentMoniker": "Ariketa2\\Program.cs",
+              "ToolTip": "C:\\Users\\carabantes.asier\\Desktop\\PAAG2\\Interfazeen garapena\\Ariketa 2 - Formula\\Ariketa2\\Program.cs",
+              "RelativeToolTip": "Ariketa2\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:28:08.474Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\carabantes.asier\\Desktop\\PAAG2\\Interfazeen garapena\\Ariketa 2 - Formula\\Ariketa2\\Form1.cs",
+              "RelativeDocumentMoniker": "Ariketa2\\Form1.cs",
+              "ToolTip": "C:\\Users\\carabantes.asier\\Desktop\\PAAG2\\Interfazeen garapena\\Ariketa 2 - Formula\\Ariketa2\\Form1.cs",
+              "RelativeToolTip": "Ariketa2\\Form1.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA3wB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:25:46.373Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\carabantes.asier\\Desktop\\PAAG2\\Interfazeen garapena\\Ariketa 2 - Formula\\Ariketa2\\Form1.cs",
+              "RelativeDocumentMoniker": "Ariketa2\\Form1.cs",
+              "ToolTip": "C:\\Users\\carabantes.asier\\Desktop\\PAAG2\\Interfazeen garapena\\Ariketa 2 - Formula\\Ariketa2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ariketa2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:19:26.462Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
