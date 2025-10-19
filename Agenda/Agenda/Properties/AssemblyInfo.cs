@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("Ariketa Extra - Agenda")]
+[assembly: AssemblyTitle("Agenda")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Ariketa Extra - Agenda")]
+[assembly: AssemblyProduct("Agenda")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("b3bfe8e7-1f29-48bc-af4c-23d24c0c3bb2")]
+[assembly: Guid("8e90f3a5-cdbb-43b2-9b76-ff8a519520b9")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //

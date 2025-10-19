@@ -39,7 +39,8 @@
               "ViewState": "AgIAACkAAAAAAAAAAAAtwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T08:31:54.335Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -49,7 +50,7 @@
               "RelativeDocumentMoniker": "Ariketa2\\Program.cs",
               "ToolTip": "C:\\Users\\carabantes.asier\\Desktop\\PAAG2\\Interfazeen garapena\\Ariketa 2 - Formula\\Ariketa2\\Program.cs",
               "RelativeToolTip": "Ariketa2\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBkAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T08:28:08.474Z",
               "IsPinned": true,
@@ -63,7 +64,7 @@
               "RelativeDocumentMoniker": "Ariketa2\\Form1.cs",
               "ToolTip": "C:\\Users\\carabantes.asier\\Desktop\\PAAG2\\Interfazeen garapena\\Ariketa 2 - Formula\\Ariketa2\\Form1.cs",
               "RelativeToolTip": "Ariketa2\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAA3wB4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T08:25:46.373Z",
               "IsPinned": true,
@@ -82,7 +83,8 @@
               "ToolTip": "C:\\Users\\carabantes.asier\\Desktop\\PAAG2\\Interfazeen garapena\\Ariketa 2 - Formula\\Ariketa2\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Ariketa2\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T08:19:26.462Z"
+              "WhenOpened": "2025-09-17T08:19:26.462Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

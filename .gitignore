@@ -1,0 +1,17 @@
+# Visual Studio temporary files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# Rider/JetBrains
+.idea/
+
+# NuGet
+*.nupkg
+packages/

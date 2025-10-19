@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Ariketa_Extra___Agenda.Properties
+namespace Agenda.Properties
 {
 
 

@@ -53,7 +53,7 @@
             tbZenbakia.Name = "tbZenbakia";
             tbZenbakia.Size = new Size(265, 27);
             tbZenbakia.TabIndex = 1;
-            tbZenbakia.TextChanged += textBox1_TextChanged;
+                tbZenbakia.TextChanged += textBox1_TextChanged;
             // 
             // btnHurrengoa
             // 

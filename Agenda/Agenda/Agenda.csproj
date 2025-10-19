@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B3BFE8E7-1F29-48BC-AF4C-23D24C0C3BB2}</ProjectGuid>
+    <ProjectGuid>{8E90F3A5-CDBB-43B2-9B76-FF8A519520B9}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Ariketa_Extra___Agenda</RootNamespace>
-    <AssemblyName>Ariketa Extra - Agenda</AssemblyName>
+    <RootNamespace>Agenda</RootNamespace>
+    <AssemblyName>Agenda</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,8 +33,18 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="GrafikoaDll">
+      <HintPath>..\..\GrafikoaDll\GrafikoaDll\bin\Debug\GrafikoaDll.dll</HintPath>
+    </Reference>
+    <Reference Include="GrafikoaLib">
+      <HintPath>..\..\Liburutegiak\GrafikoaLib\GrafikoaLib\bin\Debug\GrafikoaLib.dll</HintPath>
+    </Reference>
+    <Reference Include="KontaktuLib">
+      <HintPath>..\..\Liburutegiak\KontaktuLib\KontaktuLib\bin\Debug\KontaktuLib.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -52,7 +62,6 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Kontaktua.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -79,6 +88,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
